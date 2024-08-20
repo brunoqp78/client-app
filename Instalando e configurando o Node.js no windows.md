@@ -1,6 +1,3 @@
-Aqui está o tutorial atualizado, adaptado para o sistema operacional Windows:
-
----
 
 # Tutorial Completo: Instalação do Node.js, Configuração do React e Construção de um Frontend
 
